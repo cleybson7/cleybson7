@@ -1,6 +1,17 @@
-## Olá! Eu sou Cleybson
+# 👋 Hi, I’m Souza
 
-- 🌱 Estudando Spring Boot
+🌱 **Full-Stack Developer | Java & JavaScript Enthusiast**
+
+Welcome to my GitHub! I’m passionate about building clean, scalable, and maintainable applications — from backend APIs to frontend user interfaces. I’m constantly learning and improving my skills with modern tools and frameworks.
+
+---
+
+## 💻 About Me
+
+- 🔭 I’m currently focusing on **Java, Spring Boot, and Full-Stack development**
+- 🌍 Based in **Brazil** 🇧🇷
+- 📚 Always learning new technologies and best practices in software engineering
+- 💡 I love building projects that solve real-world problems
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Souza-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
