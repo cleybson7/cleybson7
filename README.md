@@ -28,3 +28,9 @@ Welcome to my GitHub! I’m passionate about building clean, scalable, and maint
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cleybson7/cleybson7/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cleybson7/cleybson7/output/github-contribution-grid-snake.svg">
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
